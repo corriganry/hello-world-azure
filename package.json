@@ -1,0 +1,11 @@
+{
+    "name": "hello-world",
+    "description": "Hello World for Azure",
+    "version": "1.0.0",
+    "private": true,
+    "license": "MIT",
+    "author": "Ryan",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
